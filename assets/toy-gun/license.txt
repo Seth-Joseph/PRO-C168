@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Blaster
+* source:	https://sketchfab.com/3d-models/toy-blaster-082ce426e72e40f58ea7033afaff9ef0
+* author:	HK_Arts (https://sketchfab.com/hk.arts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Blaster" (https://sketchfab.com/3d-models/toy-blaster-082ce426e72e40f58ea7033afaff9ef0) by HK_Arts (https://sketchfab.com/hk.arts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
